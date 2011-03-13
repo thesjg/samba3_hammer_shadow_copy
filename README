@@ -1,0 +1,11 @@
+./configure --prefix=/usr/local --with-samba-source=/home/sjg/projects/samba/source3
+gmake
+gmake install
+
+...
+
+Install on Windows Client (if necessary)
+  XP SP2 / Server 2003
+    http://technet.microsoft.com/en-us/library/bb809101.aspx
+
+
